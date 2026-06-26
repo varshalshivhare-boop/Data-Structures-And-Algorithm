@@ -1,6 +1,6 @@
 class Solution {
 public:
-    // A 1D map or array is enough since we only track the step number 'n'
+    // A 1D map is all you need to cache results
     unordered_map<int, int> dp; 
 
     int climbStairs(int n) {
@@ -8,14 +8,11 @@ public:
         if (n == 1) return 1;
         if (n == 2) return 2;
         
-        // Check if already calculated
-        if (dp.find(n) != dp.end()) {
-            return dp[n];
-        }
+        // If we already computed this step, return it instantly
+        if (dp.find(n) != dp.end()) return dp[n];
         
-        // The relation: ways(n) = ways(n-1) + ways(n-2)
+        // Cache and return the result
         dp[n] = climbStairs(n - 1) + climbStairs(n - 2);
-        
         return dp[n];
     }
 };
