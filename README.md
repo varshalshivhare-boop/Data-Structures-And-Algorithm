@@ -47,11 +47,13 @@ LeetCode problem solutions in C++ focused on DSA, problem-solving, and interview
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0050-powx-n) |
+| [0509-fibonacci-number](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0509-fibonacci-number) |
 | [0973-k-closest-points-to-origin](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0973-k-closest-points-to-origin) |
 ## Recursion
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0050-powx-n) |
+| [0509-fibonacci-number](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0509-fibonacci-number) |
 ## Geometry
 |  |
 | ------- |
@@ -68,4 +70,12 @@ LeetCode problem solutions in C++ focused on DSA, problem-solving, and interview
 |  |
 | ------- |
 | [0658-find-k-closest-elements](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0658-find-k-closest-elements) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
