@@ -28,7 +28,6 @@ public:
                 return true;
             }
 
-            // AAPKA LOGIC: Padosi nodes ko check karna
             for (auto it : adj[node]) {
                 if (!visited[it]) {
                     q.push(it);
