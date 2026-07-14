@@ -10,6 +10,7 @@ LeetCode problem solutions in C++ focused on DSA, problem-solving, and interview
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0200-number-of-islands) |
+| [0217-contains-duplicate](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0560-subarray-sum-equals-k) |
@@ -24,6 +25,7 @@ LeetCode problem solutions in C++ focused on DSA, problem-solving, and interview
 ## Hash Table
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0560-subarray-sum-equals-k) |
@@ -36,6 +38,7 @@ LeetCode problem solutions in C++ focused on DSA, problem-solving, and interview
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0347-top-k-frequent-elements) |
 | [0658-find-k-closest-elements](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0658-find-k-closest-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0973-k-closest-points-to-origin) |
