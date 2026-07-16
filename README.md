@@ -23,6 +23,7 @@ LeetCode problem solutions in C++ focused on DSA, problem-solving, and interview
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 ## Hash Table
 |  |
 | ------- |
@@ -32,6 +33,7 @@ LeetCode problem solutions in C++ focused on DSA, problem-solving, and interview
 | [0349-intersection-of-two-arrays](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0904-fruit-into-baskets) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -61,6 +63,7 @@ LeetCode problem solutions in C++ focused on DSA, problem-solving, and interview
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0347-top-k-frequent-elements) |
+| [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 ## Quickselect
 |  |
 | ------- |
