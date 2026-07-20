@@ -15,6 +15,7 @@ LeetCode problem solutions in C++ focused on DSA, problem-solving, and interview
 | [0219-contains-duplicate-ii](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0349-intersection-of-two-arrays) |
+| [0496-next-greater-element-i](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0560-subarray-sum-equals-k) |
 | [0658-find-k-closest-elements](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0658-find-k-closest-elements) |
 | [0724-find-pivot-index](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0724-find-pivot-index) |
@@ -33,6 +34,7 @@ LeetCode problem solutions in C++ focused on DSA, problem-solving, and interview
 | [0219-contains-duplicate-ii](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0349-intersection-of-two-arrays) |
+| [0496-next-greater-element-i](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0904-fruit-into-baskets) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
@@ -163,4 +165,12 @@ LeetCode problem solutions in C++ focused on DSA, problem-solving, and interview
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0200-number-of-islands) |
+## Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
