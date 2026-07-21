@@ -128,6 +128,7 @@ LeetCode problem solutions in C++ focused on DSA, problem-solving, and interview
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0049-group-anagrams) |
 | [0345-reverse-vowels-of-a-string](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0345-reverse-vowels-of-a-string) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -168,6 +169,7 @@ LeetCode problem solutions in C++ focused on DSA, problem-solving, and interview
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0020-valid-parentheses) |
 | [0496-next-greater-element-i](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0496-next-greater-element-i) |
 ## Monotonic Stack
 |  |
