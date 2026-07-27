@@ -101,6 +101,7 @@ LeetCode problem solutions in C++ focused on DSA, problem-solving, and interview
 | [0345-reverse-vowels-of-a-string](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0349-intersection-of-two-arrays) |
 | [0658-find-k-closest-elements](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0658-find-k-closest-elements) |
+| [0876-middle-of-the-linked-list](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
 |  |
@@ -179,4 +180,8 @@ LeetCode problem solutions in C++ focused on DSA, problem-solving, and interview
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0496-next-greater-element-i) |
+## Linked List
+|  |
+| ------- |
+| [0876-middle-of-the-linked-list](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
