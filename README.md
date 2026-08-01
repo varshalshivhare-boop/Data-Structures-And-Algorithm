@@ -183,5 +183,6 @@ LeetCode problem solutions in C++ focused on DSA, problem-solving, and interview
 ## Linked List
 |  |
 | ------- |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0876-middle-of-the-linked-list](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0876-middle-of-the-linked-list) |
 <!---LeetCode Topics End-->
