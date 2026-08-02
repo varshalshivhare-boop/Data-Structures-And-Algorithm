@@ -7,6 +7,7 @@ LeetCode problem solutions in C++ focused on DSA, problem-solving, and interview
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0049-group-anagrams](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0049-group-anagrams) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -43,6 +44,7 @@ LeetCode problem solutions in C++ focused on DSA, problem-solving, and interview
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0004-median-of-two-sorted-arrays) |
 | [0347-top-k-frequent-elements](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0973-k-closest-points-to-origin) |
 ## Sorting
@@ -106,6 +108,7 @@ LeetCode problem solutions in C++ focused on DSA, problem-solving, and interview
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0004-median-of-two-sorted-arrays) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0349-intersection-of-two-arrays](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0349-intersection-of-two-arrays) |
 | [0658-find-k-closest-elements](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0658-find-k-closest-elements) |
