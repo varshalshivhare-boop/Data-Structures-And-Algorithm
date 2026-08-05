@@ -90,6 +90,7 @@ LeetCode problem solutions in C++ focused on DSA, problem-solving, and interview
 ## Recursion
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0050-powx-n) |
 | [0509-fibonacci-number](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0509-fibonacci-number) |
 ## Geometry
@@ -188,6 +189,7 @@ LeetCode problem solutions in C++ focused on DSA, problem-solving, and interview
 ## Linked List
 |  |
 | ------- |
+| [0024-swap-nodes-in-pairs](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0024-swap-nodes-in-pairs) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0142-linked-list-cycle-ii](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0142-linked-list-cycle-ii) |
 | [0876-middle-of-the-linked-list](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0876-middle-of-the-linked-list) |
