@@ -92,6 +92,7 @@ LeetCode problem solutions in C++ focused on DSA, problem-solving, and interview
 | ------- |
 | [0024-swap-nodes-in-pairs](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0050-powx-n) |
+| [0143-reorder-list](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0143-reorder-list) |
 | [0509-fibonacci-number](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0509-fibonacci-number) |
 ## Geometry
 |  |
@@ -102,6 +103,7 @@ LeetCode problem solutions in C++ focused on DSA, problem-solving, and interview
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0142-linked-list-cycle-ii](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0345-reverse-vowels-of-a-string](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0349-intersection-of-two-arrays) |
@@ -180,6 +182,7 @@ LeetCode problem solutions in C++ focused on DSA, problem-solving, and interview
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0020-valid-parentheses) |
+| [0143-reorder-list](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0143-reorder-list) |
 | [0496-next-greater-element-i](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0496-next-greater-element-i) |
 | [1021-remove-outermost-parentheses](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/1021-remove-outermost-parentheses) |
 ## Monotonic Stack
@@ -192,6 +195,7 @@ LeetCode problem solutions in C++ focused on DSA, problem-solving, and interview
 | [0024-swap-nodes-in-pairs](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0024-swap-nodes-in-pairs) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0142-linked-list-cycle-ii](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0142-linked-list-cycle-ii) |
+| [0143-reorder-list](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0143-reorder-list) |
 | [0876-middle-of-the-linked-list](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0876-middle-of-the-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
