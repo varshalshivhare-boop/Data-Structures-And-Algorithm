@@ -10,6 +10,7 @@ LeetCode problem solutions in C++ focused on DSA, problem-solving, and interview
 | [0004-median-of-two-sorted-arrays](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0049-group-anagrams](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0049-group-anagrams) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0200-number-of-islands) |
@@ -129,6 +130,7 @@ LeetCode problem solutions in C++ focused on DSA, problem-solving, and interview
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0070-climbing-stairs) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0198-house-robber) |
 | [0509-fibonacci-number](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0509-fibonacci-number) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/1911-maximum-alternating-subsequence-sum) |
