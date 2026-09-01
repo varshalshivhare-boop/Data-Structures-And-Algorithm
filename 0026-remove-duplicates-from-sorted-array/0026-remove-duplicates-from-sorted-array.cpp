@@ -2,18 +2,22 @@ class Solution {
 public:
     int removeDuplicates(vector<int>& nums) {
         if (nums.empty()) return 0;
-        
-        int i = 0; // Pointer for the last unique element
-        
-        for (int j = 1; j < nums.size(); j++) {
-            // If we find a new unique element
-            if (nums[j] != nums[i]) {
-                i++;             // Move the unique pointer forward
-                nums[i] = nums[j]; // Update the next unique slot
+
+        vector<int> duplicates; // Khali vector duplicates ke liye
+        vector<int> temp;       // Unique elements temporary store karne ke liye
+
+        temp.push_back(nums[0]);
+
+        for (int i = 1; i < nums.size(); i++) {
+            if (nums[i] == nums[i - 1]) {
+                duplicates.push_back(nums[i]); // Duplicate ko alag vector me dala
+            } else {
+                temp.push_back(nums[i]);       // Unique ko temp me dala
             }
         }
+
+        nums = temp; // Original nums vector ko unique elements se update kar diya
         
-        // The number of unique elements is i + 1
-        return i + 1;
+        return nums.size();
     }
 };
