@@ -187,6 +187,7 @@ LeetCode problem solutions in C++ focused on DSA, problem-solving, and interview
 | ------- |
 | [0020-valid-parentheses](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0020-valid-parentheses) |
 | [0143-reorder-list](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0143-reorder-list) |
+| [0155-min-stack](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0682-baseball-game) |
 | [1021-remove-outermost-parentheses](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/1021-remove-outermost-parentheses) |
@@ -211,4 +212,8 @@ LeetCode problem solutions in C++ focused on DSA, problem-solving, and interview
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0682-baseball-game) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
