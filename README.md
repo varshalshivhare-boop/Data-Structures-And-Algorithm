@@ -23,6 +23,7 @@ LeetCode problem solutions in C++ focused on DSA, problem-solving, and interview
 | [0658-find-k-closest-elements](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0658-find-k-closest-elements) |
 | [0682-baseball-game](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0682-baseball-game) |
 | [0724-find-pivot-index](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0724-find-pivot-index) |
+| [0735-asteroid-collision](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0735-asteroid-collision) |
 | [0904-fruit-into-baskets](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0904-fruit-into-baskets) |
 | [0973-k-closest-points-to-origin](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0977-squares-of-a-sorted-array) |
@@ -190,6 +191,7 @@ LeetCode problem solutions in C++ focused on DSA, problem-solving, and interview
 | [0155-min-stack](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0682-baseball-game) |
+| [0735-asteroid-collision](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0735-asteroid-collision) |
 | [1021-remove-outermost-parentheses](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/1021-remove-outermost-parentheses) |
 ## Monotonic Stack
 |  |
@@ -212,6 +214,7 @@ LeetCode problem solutions in C++ focused on DSA, problem-solving, and interview
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0682-baseball-game) |
+| [0735-asteroid-collision](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0735-asteroid-collision) |
 ## Design
 |  |
 | ------- |
