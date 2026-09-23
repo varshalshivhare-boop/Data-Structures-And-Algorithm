@@ -1,48 +1,23 @@
-#include <bits/stdc++.h>
-using namespace std;
-
 class Solution {
 public:
     vector<int> asteroidCollision(vector<int>& asteroids) {
-
         vector<int> st;
 
         for (int x : asteroids) {
-
-            // Agar stack empty hai
-            // ya same direction hai
-            if (st.empty() || st.back() * x > 0) {
-                st.push_back(x);
-                continue;
+            // Step 1: Chhote positive asteroids ko destroy karte raho
+            while (!st.empty() && st.back() > 0 && x < 0 && st.back() < -x) {
+                st.pop_back();
             }
 
-            // Opposite direction:
-            // stack ka positive + current negative
-            while (!st.empty() && st.back() > 0 && x < 0) {
-
-                // Stack wala chhota hai
-                if (st.back() < abs(x)) {
-                    st.pop_back();
-                }
-
-                // Dono same size hain
-                else if (st.back() == abs(x)) {
-                    st.pop_back();
-                    x = 0;          // current bhi destroy
-                    break;
-                }
-
-                // Stack wala bada hai
-                else {
-                    x = 0;          // current destroy
-                    break;
-                }
-            }
-
-            // Agar current asteroid survive kar gaya
-            if (x != 0) {
+            // Step 2: Barabar size ke case me top asteroid destroy hoga
+            if (!st.empty() && st.back() > 0 && x < 0 && st.back() == -x) {
+                st.pop_back();
+            } 
+            // Step 3: Agar current asteroid destroy NAHI hua (x safe hai)
+            else if (st.empty() || st.back() < 0 || x > 0) {
                 st.push_back(x);
             }
+            // (Agar st.back() > -x hota, toh current x destroy ho jata aur push nahi hota)
         }
 
         return st;
