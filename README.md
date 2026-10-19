@@ -148,6 +148,7 @@ LeetCode problem solutions in C++ focused on DSA, problem-solving, and interview
 | [0049-group-anagrams](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0049-group-anagrams) |
 | [0345-reverse-vowels-of-a-string](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0345-reverse-vowels-of-a-string) |
 | [1021-remove-outermost-parentheses](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/2269-find-the-k-beauty-of-a-number) |
 ## Greedy
@@ -193,6 +194,7 @@ LeetCode problem solutions in C++ focused on DSA, problem-solving, and interview
 | [0682-baseball-game](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0735-asteroid-collision) |
 | [1021-remove-outermost-parentheses](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/1021-remove-outermost-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -219,4 +221,8 @@ LeetCode problem solutions in C++ focused on DSA, problem-solving, and interview
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0155-min-stack) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
