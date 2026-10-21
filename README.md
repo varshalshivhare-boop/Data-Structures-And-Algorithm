@@ -147,6 +147,7 @@ LeetCode problem solutions in C++ focused on DSA, problem-solving, and interview
 | [0020-valid-parentheses](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0049-group-anagrams) |
 | [0345-reverse-vowels-of-a-string](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0345-reverse-vowels-of-a-string) |
+| [0856-score-of-parentheses](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -193,6 +194,7 @@ LeetCode problem solutions in C++ focused on DSA, problem-solving, and interview
 | [0496-next-greater-element-i](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0496-next-greater-element-i) |
 | [0682-baseball-game](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0735-asteroid-collision) |
+| [0856-score-of-parentheses](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Monotonic Stack
@@ -224,5 +226,6 @@ LeetCode problem solutions in C++ focused on DSA, problem-solving, and interview
 ## Bracket Sequences
 |  |
 | ------- |
+| [0856-score-of-parentheses](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0856-score-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
