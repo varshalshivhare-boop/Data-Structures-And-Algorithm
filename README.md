@@ -37,6 +37,7 @@ LeetCode problem solutions in C++ focused on DSA, problem-solving, and interview
 | [0001-two-sum](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0049-group-anagrams) |
 | [0142-linked-list-cycle-ii](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0142-linked-list-cycle-ii) |
+| [0160-intersection-of-two-linked-lists](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0160-intersection-of-two-linked-lists) |
 | [0217-contains-duplicate](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0347-top-k-frequent-elements) |
@@ -108,6 +109,7 @@ LeetCode problem solutions in C++ focused on DSA, problem-solving, and interview
 | [0061-rotate-list](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0061-rotate-list) |
 | [0142-linked-list-cycle-ii](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0143-reorder-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0345-reverse-vowels-of-a-string](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0349-intersection-of-two-arrays) |
@@ -210,6 +212,7 @@ LeetCode problem solutions in C++ focused on DSA, problem-solving, and interview
 | [0083-remove-duplicates-from-sorted-list](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0142-linked-list-cycle-ii](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0143-reorder-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0160-intersection-of-two-linked-lists) |
 | [0876-middle-of-the-linked-list](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0876-middle-of-the-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
