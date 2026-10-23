@@ -99,6 +99,7 @@ LeetCode problem solutions in C++ focused on DSA, problem-solving, and interview
 | [0050-powx-n](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0206-reverse-linked-list) |
 | [0509-fibonacci-number](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0509-fibonacci-number) |
 ## Geometry
 |  |
@@ -217,6 +218,7 @@ LeetCode problem solutions in C++ focused on DSA, problem-solving, and interview
 | [0143-reorder-list](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0203-remove-linked-list-elements) |
+| [0206-reverse-linked-list](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0876-middle-of-the-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
