@@ -20,6 +20,7 @@ LeetCode problem solutions in C++ focused on DSA, problem-solving, and interview
 | [0347-top-k-frequent-elements](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0560-subarray-sum-equals-k) |
 | [0611-valid-triangle-number](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0658-find-k-closest-elements) |
@@ -208,6 +209,7 @@ LeetCode problem solutions in C++ focused on DSA, problem-solving, and interview
 | [0155-min-stack](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0155-min-stack) |
 | [0232-implement-queue-using-stacks](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0232-implement-queue-using-stacks) |
 | [0496-next-greater-element-i](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0503-next-greater-element-ii) |
 | [0682-baseball-game](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0735-asteroid-collision) |
 | [0856-score-of-parentheses](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0856-score-of-parentheses) |
@@ -217,6 +219,7 @@ LeetCode problem solutions in C++ focused on DSA, problem-solving, and interview
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0503-next-greater-element-ii) |
 ## Linked List
 |  |
 | ------- |
