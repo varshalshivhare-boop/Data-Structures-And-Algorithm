@@ -9,6 +9,7 @@ LeetCode problem solutions in C++ focused on DSA, problem-solving, and interview
 | [0001-two-sum](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0004-median-of-two-sorted-arrays) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0031-next-permutation) |
 | [0049-group-anagrams](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -111,6 +112,7 @@ LeetCode problem solutions in C++ focused on DSA, problem-solving, and interview
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0031-next-permutation](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0061-rotate-list) |
 | [0142-linked-list-cycle-ii](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0142-linked-list-cycle-ii) |
 | [0143-reorder-list](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0143-reorder-list) |
