@@ -33,6 +33,7 @@ LeetCode problem solutions in C++ focused on DSA, problem-solving, and interview
 | [1911-maximum-alternating-subsequence-sum](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -67,6 +68,7 @@ LeetCode problem solutions in C++ focused on DSA, problem-solving, and interview
 | [0973-k-closest-points-to-origin](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0977-squares-of-a-sorted-array) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -132,6 +134,7 @@ LeetCode problem solutions in C++ focused on DSA, problem-solving, and interview
 | [0349-intersection-of-two-arrays](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0349-intersection-of-two-arrays) |
 | [0611-valid-triangle-number](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0658-find-k-closest-elements) |
+| [2089-find-target-indices-after-sorting-array](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Sliding Window
 |  |
 | ------- |
