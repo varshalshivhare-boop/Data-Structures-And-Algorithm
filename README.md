@@ -49,6 +49,7 @@ LeetCode problem solutions in C++ focused on DSA, problem-solving, and interview
 | [0349-intersection-of-two-arrays](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0560-subarray-sum-equals-k) |
+| [0763-partition-labels](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0763-partition-labels) |
 | [0904-fruit-into-baskets](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0904-fruit-into-baskets) |
 | [2006-count-number-of-pairs-with-absolute-difference-k](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/2006-count-number-of-pairs-with-absolute-difference-k) |
 ## Divide and Conquer
@@ -127,6 +128,7 @@ LeetCode problem solutions in C++ focused on DSA, problem-solving, and interview
 | [0556-next-greater-element-iii](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0556-next-greater-element-iii) |
 | [0611-valid-triangle-number](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0658-find-k-closest-elements) |
+| [0763-partition-labels](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0763-partition-labels) |
 | [0876-middle-of-the-linked-list](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0977-squares-of-a-sorted-array) |
 ## Binary Search
@@ -165,6 +167,7 @@ LeetCode problem solutions in C++ focused on DSA, problem-solving, and interview
 | [0049-group-anagrams](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0049-group-anagrams) |
 | [0345-reverse-vowels-of-a-string](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0345-reverse-vowels-of-a-string) |
 | [0556-next-greater-element-iii](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0556-next-greater-element-iii) |
+| [0763-partition-labels](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0763-partition-labels) |
 | [0856-score-of-parentheses](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0856-score-of-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -174,6 +177,7 @@ LeetCode problem solutions in C++ focused on DSA, problem-solving, and interview
 |  |
 | ------- |
 | [0611-valid-triangle-number](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0611-valid-triangle-number) |
+| [0763-partition-labels](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0763-partition-labels) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 ## Graph Theory
 |  |
