@@ -192,11 +192,13 @@ LeetCode problem solutions in C++ focused on DSA, problem-solving, and interview
 ## Depth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0101-symmetric-tree) |
 | [0200-number-of-islands](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0200-number-of-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0101-symmetric-tree) |
 | [0200-number-of-islands](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0200-number-of-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union-Find
@@ -269,4 +271,12 @@ LeetCode problem solutions in C++ focused on DSA, problem-solving, and interview
 |  |
 | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0232-implement-queue-using-stacks) |
+## Tree
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0101-symmetric-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0101-symmetric-tree](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0101-symmetric-tree) |
 <!---LeetCode Topics End-->
