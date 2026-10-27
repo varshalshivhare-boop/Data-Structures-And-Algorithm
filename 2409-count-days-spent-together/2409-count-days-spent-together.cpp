@@ -4,7 +4,7 @@ private:
         vector<int> daysInMonths = {31, 28, 31, 30, 31, 30, 31, 31, 30, 31, 30, 31};
         int month = stoi(date.substr(0, 2));
         int day = stoi(date.substr(3, 2));
-        
+        // sare days calculate krlo 
         int totalDays = day;
         for (int i = 0; i < month - 1; i++) {
             totalDays += daysInMonths[i];
@@ -18,7 +18,7 @@ public:
         int endAlice = getDayNumber(leaveAlice);
         int startBob = getDayNumber(arriveBob);
         int endBob = getDayNumber(leaveBob);
-        
+        // overlap nikalo
         int overlapStart = max(startAlice, startBob);
         int overlapEnd = min(endAlice, endBob);
         
