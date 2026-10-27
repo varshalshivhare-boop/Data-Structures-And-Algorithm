@@ -193,6 +193,7 @@ LeetCode problem solutions in C++ focused on DSA, problem-solving, and interview
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0101-symmetric-tree) |
+| [0110-balanced-binary-tree](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0110-balanced-binary-tree) |
 | [0200-number-of-islands](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0200-number-of-islands) |
 | [1971-find-if-path-exists-in-graph](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
@@ -275,8 +276,10 @@ LeetCode problem solutions in C++ focused on DSA, problem-solving, and interview
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0101-symmetric-tree) |
+| [0110-balanced-binary-tree](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0110-balanced-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0101-symmetric-tree) |
+| [0110-balanced-binary-tree](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0110-balanced-binary-tree) |
 <!---LeetCode Topics End-->
