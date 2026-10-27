@@ -126,6 +126,7 @@ LeetCode problem solutions in C++ focused on DSA, problem-solving, and interview
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0345-reverse-vowels-of-a-string](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0392-is-subsequence) |
 | [0556-next-greater-element-iii](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0556-next-greater-element-iii) |
 | [0611-valid-triangle-number](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0658-find-k-closest-elements) |
@@ -154,6 +155,7 @@ LeetCode problem solutions in C++ focused on DSA, problem-solving, and interview
 | [0070-climbing-stairs](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0198-house-robber) |
+| [0392-is-subsequence](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0392-is-subsequence) |
 | [0509-fibonacci-number](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0509-fibonacci-number) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/1911-maximum-alternating-subsequence-sum) |
 ## Memoization
@@ -167,6 +169,7 @@ LeetCode problem solutions in C++ focused on DSA, problem-solving, and interview
 | [0020-valid-parentheses](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0049-group-anagrams) |
 | [0345-reverse-vowels-of-a-string](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0345-reverse-vowels-of-a-string) |
+| [0392-is-subsequence](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0392-is-subsequence) |
 | [0556-next-greater-element-iii](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0556-next-greater-element-iii) |
 | [0763-partition-labels](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0763-partition-labels) |
 | [0856-score-of-parentheses](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0856-score-of-parentheses) |
