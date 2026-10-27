@@ -100,6 +100,7 @@ LeetCode problem solutions in C++ focused on DSA, problem-solving, and interview
 | [0556-next-greater-element-iii](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0556-next-greater-element-iii) |
 | [0973-k-closest-points-to-origin](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0973-k-closest-points-to-origin) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/2269-find-the-k-beauty-of-a-number) |
+| [2409-count-days-spent-together](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/2409-count-days-spent-together) |
 ## Recursion
 |  |
 | ------- |
@@ -173,6 +174,7 @@ LeetCode problem solutions in C++ focused on DSA, problem-solving, and interview
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/2269-find-the-k-beauty-of-a-number) |
+| [2409-count-days-spent-together](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/2409-count-days-spent-together) |
 ## Greedy
 |  |
 | ------- |
