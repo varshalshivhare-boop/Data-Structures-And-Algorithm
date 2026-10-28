@@ -1,20 +1,21 @@
+
 class Solution {
 public:
     vector<int> nextGreaterElements(vector<int>& nums) {
         int n = nums.size();
-        vector<int> result(n, -1);
+        vector<int> v(n, -1);
 
         for (int i = 0; i < n; i++) {
             for (int j = 1; j < n; j++) {
-                int idx = (i + j) % n;
+                int g = (i + j) % n;
 
-                if (nums[idx] > nums[i]) {
-                    result[i] = nums[idx];
+                if (nums[g] > nums[i]) {
+                    v[i] = nums[g];
                     break;
                 }
             }
         }
 
-        return result;
+        return v;
     }
 };
