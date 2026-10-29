@@ -8,6 +8,7 @@ LeetCode problem solutions in C++ focused on DSA, problem-solving, and interview
 | ------- |
 | [0001-two-sum](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0004-median-of-two-sorted-arrays) |
+| [0014-longest-common-prefix](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0031-next-permutation](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0031-next-permutation) |
 | [0049-group-anagrams](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0049-group-anagrams) |
@@ -166,6 +167,7 @@ LeetCode problem solutions in C++ focused on DSA, problem-solving, and interview
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0049-group-anagrams) |
 | [0345-reverse-vowels-of-a-string](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0345-reverse-vowels-of-a-string) |
@@ -282,4 +284,8 @@ LeetCode problem solutions in C++ focused on DSA, problem-solving, and interview
 | ------- |
 | [0101-symmetric-tree](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0110-balanced-binary-tree) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
