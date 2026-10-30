@@ -13,6 +13,7 @@ LeetCode problem solutions in C++ focused on DSA, problem-solving, and interview
 | [0031-next-permutation](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0031-next-permutation) |
 | [0049-group-anagrams](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0198-house-robber](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0200-number-of-islands) |
@@ -288,4 +289,8 @@ LeetCode problem solutions in C++ focused on DSA, problem-solving, and interview
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0014-longest-common-prefix) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
