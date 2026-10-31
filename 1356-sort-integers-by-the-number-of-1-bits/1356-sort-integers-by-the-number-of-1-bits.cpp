@@ -1,33 +1,34 @@
 class Solution {
 public:
-    
-    int countSetBits(int n) {
-        if (n == 0) return 0;
-
-        int oneCount = 0;
-        while (n > 0) {
-            if ((n & 1) == 1) {
-                oneCount++;
-            }
-            n >>= 1; // Shift right by 1 bit
-        }
-        return oneCount;
-    }
-
-    vector<int> sortByBits(vector<int>& arr) {
-        // Sort the array 
-        sort(arr.begin(), arr.end(), [this](int a, int b) {
-            int bitsA = countSetBits(a);
-            int bitsB = countSetBits(b);
+    int countOneBits(int num) {
+        
+        int count = 0;
+        while (num) {
             
-            // If they have the same number of 1 bits, sort by value ascending
-            if (bitsA == bitsB) {
-                return a < b;
-            }
-            // Otherwise, sort by the number of 1 bits ascending
-            return bitsA < bitsB;
-        });
-
+            count += num & 1;
+            
+            num >>= 1;
+        }
+        
+        return count;
+        
+    }
+    vector<int> sortByBits(vector<int>& arr) {
+        
+        auto lambda = [&](int &a, int &b) {
+            
+            int count_a = countOneBits(a);
+            int count_b = countOneBits(b);
+            
+            if(count_a == count_b)
+                return a<b;
+            
+            return count_a < count_b;
+            
+        };
+        
+        sort(begin(arr), end(arr), lambda);
+        
         return arr;
     }
 };
