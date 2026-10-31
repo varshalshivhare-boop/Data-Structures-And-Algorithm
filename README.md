@@ -293,4 +293,5 @@ LeetCode problem solutions in C++ focused on DSA, problem-solving, and interview
 |  |
 | ------- |
 | [0136-single-number](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0136-single-number) |
+| [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 <!---LeetCode Topics End-->
