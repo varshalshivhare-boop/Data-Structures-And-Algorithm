@@ -59,6 +59,7 @@ LeetCode problem solutions in C++ focused on DSA, problem-solving, and interview
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0004-median-of-two-sorted-arrays) |
+| [0191-number-of-1-bits](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0347-top-k-frequent-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0973-k-closest-points-to-origin) |
 ## Sorting
@@ -297,6 +298,7 @@ LeetCode problem solutions in C++ focused on DSA, problem-solving, and interview
 |  |
 | ------- |
 | [0136-single-number](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0136-single-number) |
+| [0191-number-of-1-bits](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0191-number-of-1-bits) |
 | [0338-counting-bits](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0338-counting-bits) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
