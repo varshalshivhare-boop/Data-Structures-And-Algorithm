@@ -124,6 +124,7 @@ LeetCode problem solutions in C++ focused on DSA, problem-solving, and interview
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0061-rotate-list) |
 | [0142-linked-list-cycle-ii](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0142-linked-list-cycle-ii) |
@@ -175,6 +176,7 @@ LeetCode problem solutions in C++ focused on DSA, problem-solving, and interview
 | ------- |
 | [0014-longest-common-prefix](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0049-group-anagrams) |
 | [0345-reverse-vowels-of-a-string](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0392-is-subsequence) |
@@ -302,4 +304,20 @@ LeetCode problem solutions in C++ focused on DSA, problem-solving, and interview
 | [0338-counting-bits](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0338-counting-bits) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Z Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Knuth–Morris–Pratt Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Boyer–Moore String-Search Algorithm
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
