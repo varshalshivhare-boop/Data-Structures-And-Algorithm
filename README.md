@@ -10,6 +10,7 @@ LeetCode problem solutions in C++ focused on DSA, problem-solving, and interview
 | [0004-median-of-two-sorted-arrays](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0004-median-of-two-sorted-arrays) |
 | [0014-longest-common-prefix](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0027-remove-element) |
 | [0031-next-permutation](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0031-next-permutation) |
 | [0049-group-anagrams](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -124,6 +125,7 @@ LeetCode problem solutions in C++ focused on DSA, problem-solving, and interview
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0031-next-permutation](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0031-next-permutation) |
 | [0061-rotate-list](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0061-rotate-list) |
