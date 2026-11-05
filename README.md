@@ -22,6 +22,7 @@ LeetCode problem solutions in C++ focused on DSA, problem-solving, and interview
 | [0219-contains-duplicate-ii](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0219-contains-duplicate-ii) |
 | [0347-top-k-frequent-elements](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0349-intersection-of-two-arrays) |
+| [0455-assign-cookies](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0503-next-greater-element-ii) |
 | [0560-subarray-sum-equals-k](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0560-subarray-sum-equals-k) |
@@ -71,6 +72,7 @@ LeetCode problem solutions in C++ focused on DSA, problem-solving, and interview
 | [0217-contains-duplicate](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0349-intersection-of-two-arrays) |
+| [0455-assign-cookies](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0658-find-k-closest-elements) |
 | [0973-k-closest-points-to-origin](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0973-k-closest-points-to-origin) |
@@ -138,6 +140,7 @@ LeetCode problem solutions in C++ focused on DSA, problem-solving, and interview
 | [0345-reverse-vowels-of-a-string](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0392-is-subsequence) |
+| [0455-assign-cookies](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0455-assign-cookies) |
 | [0556-next-greater-element-iii](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0556-next-greater-element-iii) |
 | [0611-valid-triangle-number](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0658-find-k-closest-elements) |
@@ -197,6 +200,7 @@ LeetCode problem solutions in C++ focused on DSA, problem-solving, and interview
 ## Greedy
 |  |
 | ------- |
+| [0455-assign-cookies](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0455-assign-cookies) |
 | [0611-valid-triangle-number](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0611-valid-triangle-number) |
 | [0763-partition-labels](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0763-partition-labels) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -326,4 +330,8 @@ LeetCode problem solutions in C++ focused on DSA, problem-solving, and interview
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
