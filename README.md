@@ -34,6 +34,7 @@ LeetCode problem solutions in C++ focused on DSA, problem-solving, and interview
 | [0973-k-closest-points-to-origin](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0977-squares-of-a-sorted-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/1967-number-of-strings-that-appear-as-substrings-in-word) |
@@ -75,6 +76,7 @@ LeetCode problem solutions in C++ focused on DSA, problem-solving, and interview
 | [0973-k-closest-points-to-origin](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0973-k-closest-points-to-origin) |
 | [0977-squares-of-a-sorted-array](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0977-squares-of-a-sorted-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Heap (Priority Queue)
@@ -142,6 +144,7 @@ LeetCode problem solutions in C++ focused on DSA, problem-solving, and interview
 | [0763-partition-labels](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0763-partition-labels) |
 | [0876-middle-of-the-linked-list](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0876-middle-of-the-linked-list) |
 | [0977-squares-of-a-sorted-array](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0977-squares-of-a-sorted-array) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/1385-find-the-distance-value-between-two-arrays) |
 ## Binary Search
 |  |
 | ------- |
@@ -150,6 +153,7 @@ LeetCode problem solutions in C++ focused on DSA, problem-solving, and interview
 | [0349-intersection-of-two-arrays](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0349-intersection-of-two-arrays) |
 | [0611-valid-triangle-number](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0611-valid-triangle-number) |
 | [0658-find-k-closest-elements](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0658-find-k-closest-elements) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Sliding Window
 |  |
