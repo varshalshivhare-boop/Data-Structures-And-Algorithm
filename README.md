@@ -105,6 +105,7 @@ LeetCode problem solutions in C++ focused on DSA, problem-solving, and interview
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0050-powx-n) |
 | [0070-climbing-stairs](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0509-fibonacci-number) |
@@ -115,6 +116,7 @@ LeetCode problem solutions in C++ focused on DSA, problem-solving, and interview
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0050-powx-n) |
 | [0143-reorder-list](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0143-reorder-list) |
@@ -258,6 +260,7 @@ LeetCode problem solutions in C++ focused on DSA, problem-solving, and interview
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0024-swap-nodes-in-pairs) |
 | [0061-rotate-list](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0061-rotate-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0083-remove-duplicates-from-sorted-list) |
