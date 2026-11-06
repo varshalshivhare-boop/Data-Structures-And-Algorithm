@@ -111,6 +111,7 @@ LeetCode problem solutions in C++ focused on DSA, problem-solving, and interview
 | [0509-fibonacci-number](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0509-fibonacci-number) |
 | [0556-next-greater-element-iii](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0556-next-greater-element-iii) |
 | [0973-k-closest-points-to-origin](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0973-k-closest-points-to-origin) |
+| [1952-three-divisors](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/1952-three-divisors) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2409-count-days-spent-together](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/2409-count-days-spent-together) |
 ## Recursion
@@ -337,4 +338,20 @@ LeetCode problem solutions in C++ focused on DSA, problem-solving, and interview
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0455-assign-cookies) |
+## Enumeration
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/1952-three-divisors) |
+## Number Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/1952-three-divisors) |
+## Prime Factorization
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/1952-three-divisors) |
+## Sieve Theory
+|  |
+| ------- |
+| [1952-three-divisors](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/1952-three-divisors) |
 <!---LeetCode Topics End-->
