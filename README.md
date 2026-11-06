@@ -114,6 +114,7 @@ LeetCode problem solutions in C++ focused on DSA, problem-solving, and interview
 | [1952-three-divisors](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/1952-three-divisors) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2409-count-days-spent-together](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/2409-count-days-spent-together) |
+| [2427-number-of-common-factors](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/2427-number-of-common-factors) |
 ## Recursion
 |  |
 | ------- |
@@ -342,10 +343,12 @@ LeetCode problem solutions in C++ focused on DSA, problem-solving, and interview
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/1952-three-divisors) |
+| [2427-number-of-common-factors](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/2427-number-of-common-factors) |
 ## Number Theory
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/1952-three-divisors) |
+| [2427-number-of-common-factors](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/2427-number-of-common-factors) |
 ## Prime Factorization
 |  |
 | ------- |
@@ -354,4 +357,12 @@ LeetCode problem solutions in C++ focused on DSA, problem-solving, and interview
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/1952-three-divisors) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/2427-number-of-common-factors) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [2427-number-of-common-factors](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/2427-number-of-common-factors) |
 <!---LeetCode Topics End-->
