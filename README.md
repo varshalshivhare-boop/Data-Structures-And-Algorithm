@@ -111,6 +111,7 @@ LeetCode problem solutions in C++ focused on DSA, problem-solving, and interview
 | [0509-fibonacci-number](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0509-fibonacci-number) |
 | [0556-next-greater-element-iii](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0556-next-greater-element-iii) |
 | [0973-k-closest-points-to-origin](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0973-k-closest-points-to-origin) |
+| [1492-the-kth-factor-of-n](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/1492-the-kth-factor-of-n) |
 | [1952-three-divisors](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/1952-three-divisors) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2409-count-days-spent-together](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/2409-count-days-spent-together) |
@@ -347,11 +348,13 @@ LeetCode problem solutions in C++ focused on DSA, problem-solving, and interview
 ## Number Theory
 |  |
 | ------- |
+| [1492-the-kth-factor-of-n](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/1492-the-kth-factor-of-n) |
 | [1952-three-divisors](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/1952-three-divisors) |
 | [2427-number-of-common-factors](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/2427-number-of-common-factors) |
 ## Prime Factorization
 |  |
 | ------- |
+| [1492-the-kth-factor-of-n](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/1492-the-kth-factor-of-n) |
 | [1952-three-divisors](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/1952-three-divisors) |
 ## Sieve Theory
 |  |
