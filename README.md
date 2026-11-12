@@ -112,6 +112,7 @@ LeetCode problem solutions in C++ focused on DSA, problem-solving, and interview
 | [0556-next-greater-element-iii](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0556-next-greater-element-iii) |
 | [0973-k-closest-points-to-origin](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0973-k-closest-points-to-origin) |
 | [1492-the-kth-factor-of-n](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/1492-the-kth-factor-of-n) |
+| [1518-water-bottles](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/1518-water-bottles) |
 | [1952-three-divisors](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/1952-three-divisors) |
 | [2269-find-the-k-beauty-of-a-number](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/2269-find-the-k-beauty-of-a-number) |
 | [2409-count-days-spent-together](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/2409-count-days-spent-together) |
@@ -284,6 +285,7 @@ LeetCode problem solutions in C++ focused on DSA, problem-solving, and interview
 | ------- |
 | [0682-baseball-game](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/0735-asteroid-collision) |
+| [1518-water-bottles](https://github.com/varshalshivhare-boop/Data-Structures-And-Algorithm/tree/master/1518-water-bottles) |
 ## Design
 |  |
 | ------- |
